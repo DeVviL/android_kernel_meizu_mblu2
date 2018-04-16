@@ -741,16 +741,6 @@
 	status = "okay";
 };
 
-&firmware {
-	android {
-		fstab {
-			vendor {
-				dev = "/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/custom";
-			};
-		};
-	};
-};
-
 &memory {
 	reg = <0 0x40000000 0 0x1F000000>;
 };
