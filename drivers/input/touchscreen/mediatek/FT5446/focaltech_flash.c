@@ -130,7 +130,7 @@ static unsigned char CTPM_FW[] = {
 	//#include "FT5x46i_FT34x7_E183_V11_D07_20160617_app.i"
 	//modify@zte.com.cn at 20160826 begin
 	//#include "FT5x46i_FT34x7_E183_V12_D07_20160723_app.i"
-	  #include "FT5x46i_FT34x7_E183_V13_D07_20160812_app.i"
+	  //#include "FT5x46i_FT34x7_E183_V13_D07_20160812_app.i"
 	//modify@zte.com.cn at 20160826 end
 };
 
